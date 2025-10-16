@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Classic T-Shirt",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 3,
+    "name": "Leather Backpack",
+    "category": "Bags",
+    "image_url": "https://images.unsplash.com/photo-1575201647632-45fae95c9ce4?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 4,
+    "name": "Denim Jeans",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 5,
+    "name": "Wrist Watch",
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 6,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 8,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 10,
+    "name": "Sneakers",
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1552346154-21d32810aba3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 16,
+    "name": "Polo Shirt",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 19,
+    "name": "Chino Pants",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 20,
+    "name": "Smartwatch",
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1544117519-31a4b719223d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 24,
+    "name": "Messenger Bag",
+    "category": "Bags",
+    "image_url": "https://images.unsplash.com/photo-1547949003-9792a18a2601?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 25,
+    "name": "Shorts",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 28,
+    "name": "Jacket",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1551028719-00167b16eac5?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 29,
+    "name": "Loafers",
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 30,
+    "name": "Tote Bag",
+    "category": "Bags",
+    "image_url": "https://images.unsplash.com/photo-1572949645841-094f3a9c4c94?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 31,
+    "name": "Sweater",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 33,
+    "name": "Bomber Jacket",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 34,
+    "name": "Flip Flops",
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 41,
+    "name": "V-neck T-Shirt",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 43,
+    "name": "Denim Jacket",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 45,
+    "name": "Briefcase",
+    "category": "Bags",
+    "image_url": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 48,
+    "name": "Leather Jacket",
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 49,
+    "name": "Oxfords",
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  }
+]
